@@ -177,7 +177,7 @@ cardnumber_mask.on("accept", function () {
         case 'mastercard':
             ccicon.innerHTML = mastercard;
             ccsingle.innerHTML = mastercard_single;
-            swapColor('green');
+            swapColor('black');
 
             break;
         case 'unionpay':

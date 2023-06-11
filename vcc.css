@@ -219,6 +219,13 @@ input {
 .creditcard .visacolordark {
   fill: #0C2D48
 }
+.creditcard .mastercardscolor {
+    fill: #454545
+}
+.creditcard .mastercardscolordark {
+    fill: #171717
+}
+
 /* FRONT OF CARD */
 #svgname {
     text-transform: uppercase;
